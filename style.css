@@ -37,7 +37,7 @@ ul{
 }
 /* Hero */
 #hero{
-  background: url("../img/bg1.jpg");
+  background: url("bg1.jpg");
   background-size: cover;
   background-position: center bottom;
   background-attachment: fixed;
@@ -71,7 +71,7 @@ ul{
   }
 
   #pics > #left{
-    background: url("../img/djib.jpg");
+    background: url("djib.jpg");
     background-size: cover;
     background-position: center bottom;
     height: 450px;
@@ -79,7 +79,7 @@ ul{
   }
 
   #pics > #right{
-    background: url("../img/dji.jpg");
+    background: url("dji.jpg");
     background-size: cover;
     background-position: center bottom;
 
